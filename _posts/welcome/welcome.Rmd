@@ -4,10 +4,10 @@ description: |
   Welcome to my new blog, My Blog for Cognitive Psychology. I hope you enjoy 
   reading my thoughts about the class and readings!
 author:
-  - name: Kaitlin 
-    url: https://example.com/norajones
+  - name: Kaitlin Busse 
+    url: https://kaitlinabusse.github.io/Kaitlin-s-Blog/
     affiliation: Baruch College/The Graduate Center, CUNY
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation_url: https://www.iopsych-baruch.com/kaitlin-busse
 date: 09-09-2021
 output:
   distill::distill_article:
@@ -23,4 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+My First Post.
 
+Article 1
+
+Article 2

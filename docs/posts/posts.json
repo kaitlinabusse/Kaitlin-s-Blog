@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to my new blog, My Blog for Cognitive Psychology. I hope you enjoy \nreading my thoughts about the class and readings!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Kaitlin Busse",
+        "url": "https://kaitlinabusse.github.io/Kaitlin-s-Blog/"
       }
     ],
     "date": "2021-09-09",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nMy First Post.\nArticle 1\nArticle 2\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-09T18:39:10-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-09T19:07:03-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]
