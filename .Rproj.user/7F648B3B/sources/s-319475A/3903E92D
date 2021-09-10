@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "524122520",
+    "hash" : "0",
     "id" : "3903E92D",
-    "lastKnownWriteTime" : 1631239992,
-    "last_content_update" : 1631239992257,
+    "lastKnownWriteTime" : 1631240406,
+    "last_content_update" : 1631240406801,
     "path" : "~/Desktop/Cog/Kaitlin's Blog/_posts/welcome/welcome.Rmd",
     "project_path" : "_posts/welcome/welcome.Rmd",
     "properties" : {
-        "cursorPosition" : "103,0",
-        "scrollLine" : "101"
+        "cursorPosition" : "28,125",
+        "scrollLine" : "20"
     },
     "read_only" : false,
     "read_only_alternatives" : [
