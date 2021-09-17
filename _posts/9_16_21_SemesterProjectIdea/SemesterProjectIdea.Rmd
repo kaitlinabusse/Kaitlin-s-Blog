@@ -1,5 +1,5 @@
 ---
-title: "SemesterProject Idea"
+title: "Semester Project Idea"
 description: 
   This is a post about my semester project idea.  
 author:
