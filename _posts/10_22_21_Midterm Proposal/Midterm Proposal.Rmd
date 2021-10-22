@@ -1,0 +1,75 @@
+---
+title: "Midterm Proposal"
+description: 
+  This is a post about an update to my semester project idea.  
+author:
+  - name: Kaitlin Busse 
+    url: https://kaitlinabusse.github.io/Kaitlin-s-Blog/
+    affiliation: Baruch College/The Graduate Center, CUNY
+    affiliation_url: https://www.iopsych-baruch.com/kaitlin-busse
+date: 10-22-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+## Midterm Proposal
+
+### The Project: Textbook Chapter
+
+My proposed final paper will consist of a book chapter on learning meant for my undergraduate Motivation and Learning class that I currently teach at Baruch College. The class is currently designed to cover topics of both motivation and learning; however, I have not found a textbook that covers both topics together (most books are focused on solely motivation). Because I do not want students to purchase another book for class, I would like to use the final project as an opportunity to create an open source chapter on the topic that can be tailored to my class. 
+
+### What the Chapter Would Consist Of
+
+This chapter would cover of 5 sections that would be meant to discuss over 4 classes in total. Each section will start out with learning objectives that will be tailored to the specific class topic, then include the material about the topic, and also include mini exercises meant to guide reading (e.g., critical reflection questions, case studies, etc.). Specifically, exercises will be geared to applying the class concepts in relation to motivation (e.g., how might operant learning influence intrinsic/extrinsic behaviors)
+
+**Introduction to Learning and Cognitions**
+
+This brief section help to introduce the topic of learning and cognition to students. Given that students will be finishing their unit on Motivational Needs, this introduction is needed to help them transition and orient students into the Learning and Cognitions part of class. This part will define what learning and cognition is, address the connection between both concepts, talk about how learning relates to motivation, and discuss the importance of learning in our lives. 
+
+**Classical Conditioning**
+
+This section will focus on classical learning, which will concentrate on how we learn through association. The chapter will cover topics such as defining the key concepts, discussing a brief history of the topic (e.g., Pavlov), go into the specifics of the conditioning steps, briefly touch into the processes related to conditioning (e.g., extinction/acquisition/spontaneous recovery, generalization vs discrimination), and then touch on real world applications of conditioning.
+
+**Operant Conditioning**
+
+This section will focus on operant learning, which will concentrate on how we learn through rewards and punishments. The chapter will cover topics such as defining the key concepts (e.g., reinforcers, punishers), discussing a brief history of the topic (e.g., Thorndike’s law of Effect and Skinner Boxes), go into the specifics of the different types of operant learning, touch upon the differences between classical vs. operant conditioning, go into primary vs secondary reinforcers, briefly touch into the schedules of reinforcement, and then then touch on real world applications (e.g., behavioral shaping).
+
+**Observational Learning**
+This section will focus on observational learning, which will concentrate on how we learn by watching others. The chapter will cover topics such as defining the key, discussing a brief history of the topic (e.g., Tolman, Bandura), outline the modeling process, and discuss the impacts of observational learning through real world applications.   
+
+**Chapter Summary**
+This short section will focus on the overall summary of the topics discussed in the chapter. Additionally, student activities will be provided to help students test their overall knowledge and apply the concepts based on all the above sections.  
+
+
+### How This Chapter Will Be Used
+This chapter will be used to transition into the topic of learning and cognitions for a Motivation and Learning class. The students will be assigned the class readings, which will be used as a guide for the class lecture (e.g., concepts, activities, discussion) and homework activities (e.g., end of chapter quiz, reflection questions… focused in the context of motivation). This book will help students become more knowledgeable in areas of learning, which will be applied to motivational concepts later in the class.
+
+### Bibliography
+
+1.	Windholz, G. (1997). Ivan P. Pavlov: An overview of his life and psychological work. American Psychologist, 52(9), 941–946.
+2.	Keane, T. M., Zimering, R. T., & Caddell, J. M. (1985). A behavioral formulation of posttraumatic stress disorder in Vietnam veterans. Behavior Therapist, 8(1), 9-12.
+3.	Öhman, A., & Mineka, S. (2001). Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning. Psychological Review, 108(3), 483-522
+4.	Thorndike, E. L. (1911). Animal intelligence: Experimental studies. New York, NY: Macmillan. Retrieved from http://www.archive.org/details/animalintelligen00thor
+5.	Ferster, C. B., & Skinner, B. F. (1957). Schedules of reinforcement.
+6.	Garcia, J., Ervin, F. R., & Koelling, R. A. (1966). Learning with prolonged delay of reinforcement. Psychonomic Science, 5(3), 121–122.
+7.	Cooper, J. O., Heron, T. E., & Heward, W. L. (2007). Applied behavior analysis.
+8.	Bandura, A., Ross, D., & Ross, S. A. (1963). Imitation of film-mediated aggressive models. The Journal of Abnormal and Social Psychology, 66(1), 3–11.
+9.	Cook, M., & Mineka, S. (1990). Selective associations in the observational conditioning of fear in rhesus monkeys. Journal of Experimental Psychology: Animal Behavior Processes, 16(4), 372–389
+10.	Stevenson, R. J., Oaten, M. J., Case, T. I., Repacholi, B. M., & Wagland, P. (2010). Children’s response to adult disgust elicitors: Development and acquisition. Developmental Psychology, 46(1), 165–177.
+
+
+**Textbooks That Might Be Helpful**
+*I’m not sure if I’m allowed to include these in the chapter, but would use this to help with historical and overall main concepts (I’m having trouble finding a good review article to explain the different concepts, which I’ve found to not be cited well when reading about the concepts) 
+-	Chance, P. (2013). Learning and behavior. Cengage Learning.
+-	https://opentext.wsu.edu/psych105/ 
+
+
